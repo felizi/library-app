@@ -1,8 +1,7 @@
 
 
 ## Building Web Applications with Node.js and Express 4.0 by Jonathan Mills
-[Course](https://app.pluralsight.com/library/courses/nodejs-express-web-applications/table-of-contents)
-Topics of course:
+Topics of [course](https://app.pluralsight.com/library/courses/nodejs-express-web-applications/table-of-contents):
 * Start
   * NodeJS
   * IDEs: Sublime, Webstorm, Atom, Brackets..
