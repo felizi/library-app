@@ -20,6 +20,8 @@
     "wiredep": "^4.0.0"
   },
   "dependencies": {
+    "ejs": "^2.4.2",
+    "express-handlebars": "^3.0.0",
     "jade": "^1.11.0"
   }
 }
